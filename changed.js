@@ -1,1 +1,3 @@
 let changed;
+
+const secondChange;
